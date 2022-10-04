@@ -26,4 +26,5 @@ def print_report(incomes):
         # print("Month {:2} - Income: ${:10.2f} Total: ${:10.2f}".format(month, income, total))
         print(f"Month {month:2} - Income: ${income:10.2f} Total: ${total:10.2f}")
 
+
 main()
